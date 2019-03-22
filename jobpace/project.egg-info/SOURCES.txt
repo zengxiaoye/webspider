@@ -1,0 +1,14 @@
+setup.py
+jobpace/__init__.py
+jobpace/items.py
+jobpace/middlewares.py
+jobpace/pipelines.py
+jobpace/run.py
+jobpace/settings.py
+jobpace/spiders/__init__.py
+jobpace/spiders/wuyaojob.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
