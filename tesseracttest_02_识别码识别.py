@@ -1,22 +1,4 @@
-"""
-__title__ = ''
-__author__ = 'Thompson'
-__mtime__ = '2018/7/27'
-# code is far away from bugs with the god animal protecting
-    I love animals. They taste delicious.
-              ┏┓      ┏┓
-            ┏┛┻━━━┛┻┓
-            ┃      ☃      ┃
-            ┃  ┳┛  ┗┳  ┃
-            ┃      ┻      ┃
-            ┗━┓      ┏━┛
-                ┃      ┗━━━┓
-                ┃  神兽保佑    ┣┓
-                ┃　永无BUG！   ┏┛
-                ┗┓┓┏━┳┓┏┛
-                  ┃┫┫  ┃┫┫
-                  ┗┻┛  ┗┻┛
-"""
+
 import pytesseract
 from PIL import Image
 # img =Image.open('./images/recaptcha.png')
